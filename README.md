@@ -38,8 +38,8 @@ INF3RNO offers a suite of integrated tools, including but not limited to:
 
 Ready to engage? Access INF3RNO through our official web portal:
 
-*   **Main Portal:** `[Your INF3RNO Website URL - e.g., https://inf3rno-ops.io]` (Replace with your actual URL)
-*   **Direct Download Page:** `[Your Download Page URL - e.g., https://inf3rno-ops.io/download.html]` (Replace with your actual URL)
+*   **Main Portal:** https://inf3rno.lol/
+*   **Direct Download Page:** https://inf3rno.lol/download
 
 Ensure your system meets the specified requirements outlined on the download page for optimal performance.
 
