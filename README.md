@@ -69,13 +69,5 @@ INF3RNO is designed for:
 
 ---
 
-## 💬 COMMUNITY & SUPPORT
-
-*   **Questions & Discussion:** Head to `#general-discussion` (or your relevant channel).
-*   **Bug Reports & Feedback:** Please use the `#bug-reports` or `#feedback` channel.
-*   **Announcements:** Stay tuned to `#announcements` for updates and new releases.
-
----
-
 *INF3RNO // Codename: Chimera // Version: 3.1.4-alpha (Build ID dynamic)*
 *Developed by __gh0st_749__*
